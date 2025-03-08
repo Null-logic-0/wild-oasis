@@ -1,9 +1,9 @@
 Wild Oasis - Travel and Adventure Website 
-Wild Oasis is a dynamic travel and adventure platform built with Next.js, Tailwind CSS, and Supabase for backend services. The website offers users the ability to explore travel destinations, view packages, and book adventures, all with a seamless and responsive design.
+Wild Oasis is a dynamic travel and adventure platform built with React.js/vite,CSS Styled components, and Supabase for backend services. The website offers users the ability to explore travel destinations, view packages, and book adventures, all with a seamless and responsive design.
 
 🛠 Tech Stack:
 
-    Frontend: Next.js, Tailwind CSS
+    Frontend: React.js/vite, CSS styled components
     Backend: Supabase 
     Authentication: Supabase Authentication
     
